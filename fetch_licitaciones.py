@@ -1,171 +1,194 @@
 import urllib.request
-import urllib.parse
 import json
 import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
+# Palabras clave para filtrar localmente
 KEYWORDS = [
-    "aplicación móvil",
-    "app móvil",
+    "aplicación móvil", "aplicacion movil",
+    "app móvil", "app movil",
     "plataforma digital",
     "desarrollo web",
-    "software gestión",
+    "software gestión", "software gestion",
     "portal web",
-    "sistema informático",
-    "gestión académica",
-    "ERP formación",
-    "formación online",
-    "aplicacion movil",
-    "gestión entradas",
+    "sistema informático", "sistema informatico",
+    "gestión académica", "gestion academica",
+    "formación online", "formacion online",
+    "gestión entradas", "gestion entradas",
+    "aplicación web", "aplicacion web",
+    "plataforma online",
+    "transformación digital", "transformacion digital",
+    "ERP",
 ]
 
-NS = {
-    'atom': 'http://www.w3.org/2005/Atom',
-    'cac': 'urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2',
-    'cbc': 'urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2',
-    'efac': 'http://data.europa.eu/p27/eforms-ubl-extension-aggregate-components/1',
-    'efbc': 'http://data.europa.eu/p27/eforms-ubl-extension-basic-components/1',
-}
+# URL oficial del feed Atom de PLACE (últimas licitaciones, máx 500 por página)
+FEED_URL = "https://contrataciondelestado.es/sindicacion/sindicacion_643/licitacionesPerfilesContratanteCompleto3.atom"
 
-def fecha_hace_dias(n):
-    d = datetime.now() - timedelta(days=n)
-    return d.strftime("%Y%m%d")
+ATOM = "http://www.w3.org/2005/Atom"
 
-def texto(el, tag):
-    if el is None:
-        return ""
-    found = el.find(tag, NS)
-    return found.text.strip() if found is not None and found.text else ""
-
-def buscar_atom(keyword):
-    kw_encoded = urllib.parse.quote(keyword)
-    fecha = fecha_hace_dias(10)
-    url = (
-        f"https://contrataciondelestado.es/sindicacion/sindicacion_1044/licitacionesPerfilesContratanteCompleto3.atom"
-        f"?keyword={kw_encoded}&fechaPublicacionDesde={fecha}"
-    )
+def fetch_feed(url):
     try:
         req = urllib.request.Request(
             url,
             headers={
                 "User-Agent": "Mozilla/5.0 TenderWatch/1.0",
-                "Accept": "application/atom+xml, application/xml, */*"
+                "Accept": "application/atom+xml, application/xml, */*",
             }
         )
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            content = resp.read().decode("utf-8", errors="replace")
-            return content
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return resp.read().decode("utf-8", errors="replace")
     except Exception as e:
-        print(f"  Error feed '{keyword}': {e}")
+        print(f"  Error descargando feed: {e}")
         return None
 
-def parsear_atom(xml_content, keyword):
+def parsear_entry(entry):
+    """Extrae los campos básicos de una entry del Atom."""
+    def txt(tag):
+        el = entry.find(f"{{{ATOM}}}{tag}")
+        return el.text.strip() if el is not None and el.text else ""
+
+    titulo = txt("title")
+    enlace = ""
+    link = entry.find(f"{{{ATOM}}}link")
+    if link is not None:
+        enlace = link.get("href", "")
+
+    id_entry = txt("id") or titulo
+    updated = txt("updated")[:10] if txt("updated") else ""
+
+    # El summary contiene XML CODICE con los datos del contrato
+    organismo = ""
+    importe = ""
+    plazo = ""
+    cpv = ""
+
+    summary = entry.find(f"{{{ATOM}}}summary")
+    if summary is not None:
+        # Primero intentar el texto del summary
+        raw = summary.text or ""
+        # Buscar en el contenido XML embebido
+        try:
+            # A veces el contenido viene como CDATA o texto plano con XML
+            if raw.strip().startswith("<"):
+                inner = ET.fromstring(raw)
+                # Organismo — varios posibles tags
+                for xpath in [
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2}PartyName/{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}Name",
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}Name",
+                ]:
+                    el = inner.find(xpath)
+                    if el is not None and el.text:
+                        organismo = el.text.strip()
+                        break
+                # Importe
+                for xpath in [
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}TaxExclusiveAmount",
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}LineExtensionAmount",
+                ]:
+                    el = inner.find(xpath)
+                    if el is not None and el.text:
+                        importe = el.text.strip()
+                        break
+                # Fecha límite
+                for xpath in [
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}EndDate",
+                ]:
+                    el = inner.find(xpath)
+                    if el is not None and el.text:
+                        plazo = el.text.strip()[:10]
+                        break
+                # CPV
+                for xpath in [
+                    ".//{urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2}ItemClassificationCode",
+                ]:
+                    el = inner.find(xpath)
+                    if el is not None and el.text:
+                        cpv = el.text.strip()
+                        break
+        except Exception:
+            pass
+
+    return {
+        "id": id_entry,
+        "titulo": titulo,
+        "organismo": organismo,
+        "importe": importe,
+        "plazo": plazo,
+        "cpv": cpv,
+        "enlace": enlace or "https://contrataciondelestado.es",
+        "fechaPublicacion": updated,
+        "_kw": "",
+    }
+
+def titulo_contiene_keyword(titulo):
+    t = titulo.lower()
+    for kw in KEYWORDS:
+        if kw.lower() in t:
+            return kw
+    return None
+
+def main():
+    fecha_limite = datetime.now() - timedelta(days=10)
+    print(f"Descargando feed PLACE (últimas licitaciones)...")
+
     resultados = []
-    try:
-        root = ET.fromstring(xml_content)
-        # Namespace del atom
-        entries = root.findall('{http://www.w3.org/2005/Atom}entry')
+    vistos = set()
+    paginas = 0
+    url = FEED_URL
+
+    while url and paginas < 5:
+        paginas += 1
+        print(f"  Página {paginas}: {url[:80]}...")
+        xml_content = fetch_feed(url)
+        if not xml_content:
+            break
+
+        try:
+            root = ET.fromstring(xml_content)
+        except Exception as e:
+            print(f"  Error parseando XML: {e}")
+            break
+
+        entries = root.findall(f"{{{ATOM}}}entry")
+        print(f"  {len(entries)} entradas en esta página")
+
+        entradas_antiguas = 0
         for entry in entries:
-            titulo = ""
-            enlace = ""
-            organismo = ""
-            importe = ""
-            plazo = ""
-            cpv = ""
-            fecha_pub = ""
-            expediente = ""
+            item = parsear_entry(entry)
 
-            # Título
-            t = entry.find('{http://www.w3.org/2005/Atom}title')
-            titulo = t.text.strip() if t is not None and t.text else ""
-
-            # Enlace
-            link = entry.find('{http://www.w3.org/2005/Atom}link')
-            if link is not None:
-                enlace = link.get('href', '')
-
-            # ID / expediente
-            id_el = entry.find('{http://www.w3.org/2005/Atom}id')
-            expediente = id_el.text.strip() if id_el is not None and id_el.text else titulo
-
-            # Fecha publicación
-            pub = entry.find('{http://www.w3.org/2005/Atom}published')
-            if pub is not None and pub.text:
-                fecha_pub = pub.text[:10]
-
-            # Summary puede contener XML embebido con datos del contrato
-            summary = entry.find('{http://www.w3.org/2005/Atom}summary')
-            if summary is not None and summary.text:
-                # Intentar parsear el XML del summary
+            # Filtrar por fecha (últimos 10 días)
+            if item["fechaPublicacion"]:
                 try:
-                    inner = ET.fromstring(summary.text)
-                    # Organismo
-                    for tag in ['.//cac:PartyName/cbc:Name', './/cbc:Name']:
-                        el = inner.find(tag, NS)
-                        if el is not None and el.text:
-                            organismo = el.text.strip()
-                            break
-                    # Importe
-                    for tag in ['.//cbc:TaxExclusiveAmount', './/cbc:LineExtensionAmount', './/cbc:Amount']:
-                        el = inner.find(tag, NS)
-                        if el is not None and el.text:
-                            importe = el.text.strip()
-                            break
-                    # Fecha límite
-                    for tag in ['.//cbc:EndDate', './/cbc:SubmissionDueDate']:
-                        el = inner.find(tag, NS)
-                        if el is not None and el.text:
-                            plazo = el.text.strip()[:10]
-                            break
-                    # CPV
-                    for tag in ['.//cbc:ItemClassificationCode', './/cbc:ID[@schemeName="CPV"]']:
-                        el = inner.find(tag, NS)
-                        if el is not None and el.text:
-                            cpv = el.text.strip()
-                            break
+                    fecha_pub = datetime.strptime(item["fechaPublicacion"], "%Y-%m-%d")
+                    if fecha_pub < fecha_limite:
+                        entradas_antiguas += 1
+                        continue
                 except:
                     pass
 
-            # Extraer organismo del título si no se encontró
-            if not organismo and ' - ' in titulo:
-                partes = titulo.split(' - ')
-                if len(partes) > 1:
-                    organismo = partes[-1].strip()
-                    titulo = ' - '.join(partes[:-1]).strip()
+            # Filtrar por keyword en título
+            kw_match = titulo_contiene_keyword(item["titulo"])
+            if not kw_match:
+                continue
 
-            if titulo:
-                resultados.append({
-                    "id": expediente or titulo,
-                    "titulo": titulo,
-                    "organismo": organismo,
-                    "importe": importe,
-                    "plazo": plazo,
-                    "cpv": cpv,
-                    "enlace": enlace or "https://contrataciondelestado.es",
-                    "fechaPublicacion": fecha_pub,
-                    "_kw": keyword,
-                })
-    except Exception as e:
-        print(f"  Error parseando XML: {e}")
-    return resultados
+            item["_kw"] = kw_match
 
-def main():
-    print(f"Buscando licitaciones (últimos 10 días)...")
-    resultados = []
-    vistos = set()
+            if item["id"] not in vistos:
+                vistos.add(item["id"])
+                resultados.append(item)
 
-    for kw in KEYWORDS:
-        print(f"  -> {kw}")
-        xml_content = buscar_atom(kw)
-        if xml_content:
-            items = parsear_atom(xml_content, kw)
-            print(f"     {len(items)} resultados")
-            for item in items:
-                id_item = item["id"]
-                if id_item not in vistos:
-                    vistos.add(id_item)
-                    resultados.append(item)
+        # Si todas las entradas son antiguas, parar la paginación
+        if entradas_antiguas == len(entries):
+            print("  Todas las entradas son antiguas, parando.")
+            break
+
+        # Siguiente página
+        url = None
+        for link in root.findall(f"{{{ATOM}}}link"):
+            if link.get("rel") == "next":
+                url = link.get("href")
+                break
 
     output = {
         "actualizado": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
@@ -177,7 +200,7 @@ def main():
     with open("data/licitaciones.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\nTotal guardadas: {len(resultados)} licitaciones en data/licitaciones.json")
+    print(f"\n✓ {len(resultados)} licitaciones relevantes guardadas en data/licitaciones.json")
 
 if __name__ == "__main__":
     main()
