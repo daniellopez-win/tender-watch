@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tender Watch — Winecta</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.19.0/dist/tabler-icons.min.css">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f3; color: #1a1a1a; min-height: 100vh; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1.25rem; }
+
+  .header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 2rem; flex-wrap: wrap; gap: 12px; }
+  .header-left h1 { font-size: 20px; font-weight: 600; display: flex; align-items: center; gap: 8px; }
+  .header-left p { font-size: 13px; color: #666; margin-top: 4px; }
+  .refresh-btn { border: 1px solid #ddd; background: #fff; border-radius: 8px; padding: 7px 14px; font-size: 13px; cursor: pointer; display: flex; align-items: center; gap: 6px; color: #444; transition: all 0.15s; }
+  .refresh-btn:hover { background: #f0f0f0; border-color: #bbb; }
+
+  .stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 1.5rem; }
+  .stat { background: #fff; border: 1px solid #e8e8e8; border-radius: 10px; padding: 12px 16px; }
+  .stat-label { font-size: 12px; color: #888; margin-bottom: 4px; }
+  .stat-value { font-size: 24px; font-weight: 600; }
+  .stat-value.go { color: #1D9E75; }
+  .stat-value.nogo { color: #E24B4A; }
+
+  .filters { display: flex; gap: 8px; margin-bottom: 1.25rem; flex-wrap: wrap; align-items: center; }
+  .filter-btn { border: 1px solid #ddd; background: #fff; border-radius: 20px; padding: 5px 14px; font-size: 13px; cursor: pointer; color: #666; transition: all 0.15s; }
+  .filter-btn.active { background: #1a1a1a; border-color: #1a1a1a; color: #fff; font-weight: 500; }
+  .filter-btn:hover:not(.active) { border-color: #999; color: #1a1a1a; }
+  .search { border: 1px solid #ddd; background: #fff; border-radius: 8px; padding: 6px 12px; font-size: 13px; color: #1a1a1a; flex: 1; min-width: 160px; max-width: 300px; }
+  .search:focus { outline: none; border-color: #888; }
+
+  .section-label { font-size: 11px; font-weight: 600; color: #999; text-transform: uppercase; letter-spacing: 0.06em; margin: 1.5rem 0 0.6rem; }
+
+  .card { background: #fff; border: 1px solid #e8e8e8; border-radius: 12px; padding: 1rem 1.25rem; margin-bottom: 8px; transition: border-color 0.15s; border-left-width: 3px; }
+  .card:hover { border-color: #ccc; }
+  .card.estado-go { border-left-color: #1D9E75; }
+  .card.estado-nogo { border-left-color: #E24B4A; opacity: 0.6; }
+  .card.estado-pendiente { border-left-color: #e8e8e8; }
+
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; margin-bottom: 6px; }
+  .card-title { font-size: 14px; font-weight: 500; line-height: 1.4; flex: 1; }
+  .card-org { font-size: 12px; color: #888; margin-bottom: 8px; display: flex; align-items: center; gap: 4px; }
+  .card-meta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 10px; }
+
+  .badge { font-size: 11px; padding: 2px 8px; border-radius: 20px; font-weight: 500; display: inline-flex; align-items: center; gap: 3px; }
+  .badge-importe { background: #E1F5EE; color: #085041; }
+  .badge-plazo { background: #FAEEDA; color: #633806; }
+  .badge-cpv { background: #EEEDFE; color: #3C3489; }
+  .badge-kw { background: #FAECE7; color: #712B13; }
+  .badge-dias { background: #f0f0f0; color: #666; }
+
+  .actions { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+  .btn { border: 1px solid #ddd; background: transparent; border-radius: 7px; padding: 4px 10px; font-size: 12px; cursor: pointer; color: #666; display: inline-flex; align-items: center; gap: 4px; transition: all 0.15s; }
+  .btn:hover { background: #f5f5f3; border-color: #bbb; color: #1a1a1a; }
+  .btn.go-btn.active { border-color: #1D9E75; color: #085041; background: #E1F5EE; font-weight: 500; }
+  .btn.nogo-btn.active { border-color: #E24B4A; color: #791F1F; background: #FCEBEB; font-weight: 500; }
+  .btn.go-btn:hover { border-color: #1D9E75; color: #085041; background: #E1F5EEaa; }
+  .btn.nogo-btn:hover { border-color: #E24B4A; color: #791F1F; background: #FCEBEBaa; }
+
+  .link { color: #888; text-decoration: none; font-size: 12px; display: inline-flex; align-items: center; gap: 3px; padding: 4px; }
+  .link:hover { color: #1a1a1a; }
+
+  .nota-wrap { margin-top: 10px; display: none; }
+  .nota-wrap.open { display: block; }
+  .nota { width: 100%; border: 1px solid #e8e8e8; border-radius: 7px; padding: 8px 10px; font-size: 13px; color: #1a1a1a; background: #fafafa; resize: none; font-family: inherit; }
+  .nota:focus { outline: none; border-color: #999; background: #fff; }
+  .nota-saved { font-size: 11px; color: #1D9E75; margin-top: 4px; display: none; }
+
+  .empty { text-align: center; padding: 4rem 1rem; color: #999; font-size: 14px; }
+  .loading { text-align: center; padding: 4rem 1rem; color: #999; font-size: 14px; }
+  .error-bar { background: #FFF3CD; border: 1px solid #FFECB5; border-radius: 8px; padding: 10px 14px; font-size: 13px; color: #664D03; margin-bottom: 1rem; display: none; }
+
+  @media (max-width: 600px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .stat-value { font-size: 20px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="header">
+    <div class="header-left">
+      <h1><i class="ti ti-file-search"></i> Tender Watch</h1>
+      <p id="meta-update">Cargando...</p>
+    </div>
+    <button class="refresh-btn" onclick="init()">
+      <i class="ti ti-refresh"></i> Actualizar
+    </button>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><div class="stat-label">Total</div><div class="stat-value" id="s-total">—</div></div>
+    <div class="stat"><div class="stat-label">Pendientes</div><div class="stat-value" id="s-pend">—</div></div>
+    <div class="stat"><div class="stat-label">GO</div><div class="stat-value go" id="s-go">—</div></div>
+    <div class="stat"><div class="stat-label">NO-GO</div><div class="stat-value nogo" id="s-nogo">—</div></div>
+  </div>
+
+  <div class="filters">
+    <input type="text" class="search" placeholder="Buscar..." id="q" oninput="render()">
+    <button class="filter-btn active" data-f="todos" onclick="setFiltro('todos')">Todas</button>
+    <button class="filter-btn" data-f="pendiente" onclick="setFiltro('pendiente')">Pendientes</button>
+    <button class="filter-btn" data-f="go" onclick="setFiltro('go')">GO</button>
+    <button class="filter-btn" data-f="nogo" onclick="setFiltro('nogo')">NO-GO</button>
+  </div>
+
+  <div class="error-bar" id="err"></div>
+  <div id="lista"><div class="loading">Cargando licitaciones...</div></div>
+</div>
+
+<script>
+let licitaciones = [];
+let filtro = 'todos';
+let estados = {};
+let notas = {};
+
+function loadStorage() {
+  try { estados = JSON.parse(localStorage.getItem('tw_estados') || '{}'); } catch(e) { estados = {}; }
+  try { notas = JSON.parse(localStorage.getItem('tw_notas') || '{}'); } catch(e) { notas = {}; }
+}
+
+function saveStorage() {
+  try { localStorage.setItem('tw_estados', JSON.stringify(estados)); localStorage.setItem('tw_notas', JSON.stringify(notas)); } catch(e) {}
+}
+
+async function init() {
+  document.getElementById('meta-update').textContent = 'Cargando...';
+  document.getElementById('err').style.display = 'none';
+  try {
+    const resp = await fetch('data/licitaciones.json?t=' + Date.now());
+    if (!resp.ok) throw new Error('No se pudo cargar el JSON');
+    const data = await resp.json();
+    licitaciones = data.licitaciones || [];
+    const fecha = data.actualizado ? new Date(data.actualizado).toLocaleString('es-ES', { day:'2-digit', month:'long', hour:'2-digit', minute:'2-digit' }) : '—';
+    document.getElementById('meta-update').textContent = `Última actualización: ${fecha} · ${licitaciones.length} licitaciones`;
+    render();
+  } catch(e) {
+    document.getElementById('err').style.display = 'block';
+    document.getElementById('err').innerHTML = '<i class="ti ti-alert-triangle"></i> No se pudo cargar el archivo de datos. Si acabas de crear el repositorio, ejecuta el workflow manualmente desde GitHub Actions.';
+    document.getElementById('meta-update').textContent = 'Error al cargar';
+    document.getElementById('lista').innerHTML = '<div class="empty">Sin datos disponibles.</div>';
+  }
+}
+
+function setFiltro(f) {
+  filtro = f;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b.dataset.f === f));
+  render();
+}
+
+function render() {
+  const q = (document.getElementById('q').value || '').toLowerCase();
+  const filtradas = licitaciones.filter(l => {
+    const t = (l.titulo || '').toLowerCase();
+    const o = (l.organismo || '').toLowerCase();
+    const mq = !q || t.includes(q) || o.includes(q);
+    const e = estados[l.id] || 'pendiente';
+    const mf = filtro === 'todos' || e === filtro;
+    return mq && mf;
+  });
+
+  let go = 0, nogo = 0, pend = 0;
+  licitaciones.forEach(l => { const e = estados[l.id] || 'pendiente'; if(e==='go') go++; else if(e==='nogo') nogo++; else pend++; });
+  document.getElementById('s-total').textContent = licitaciones.length;
+  document.getElementById('s-go').textContent = go;
+  document.getElementById('s-nogo').textContent = nogo;
+  document.getElementById('s-pend').textContent = pend;
+
+  if (!filtradas.length) {
+    document.getElementById('lista').innerHTML = '<div class="empty"><i class="ti ti-mood-empty" style="font-size:28px;"></i><br><br>Nada con este filtro.</div>';
+    return;
+  }
+
+  let html = '';
+  if (filtro === 'todos') {
+    const pends = filtradas.filter(l => (estados[l.id]||'pendiente')==='pendiente');
+    const gos = filtradas.filter(l => (estados[l.id]||'pendiente')==='go');
+    const nogos = filtradas.filter(l => (estados[l.id]||'pendiente')==='nogo');
+    if (pends.length) { html += `<div class="section-label">Pendientes · ${pends.length}</div>`; html += pends.map(card).join(''); }
+    if (gos.length) { html += `<div class="section-label">GO · ${gos.length}</div>`; html += gos.map(card).join(''); }
+    if (nogos.length) { html += `<div class="section-label">NO-GO · ${nogos.length}</div>`; html += nogos.map(card).join(''); }
+  } else {
+    html = filtradas.map(card).join('');
+  }
+  document.getElementById('lista').innerHTML = html;
+}
+
+function card(l) {
+  const titulo = l.titulo || 'Sin título';
+  const org = l.organismo || '—';
+  const importe = l.importe ? `<span class="badge badge-importe"><i class="ti ti-currency-euro" style="font-size:11px;"></i>${Number(l.importe).toLocaleString('es-ES')} €</span>` : '';
+  const plazo = l.plazo ? `<span class="badge badge-plazo"><i class="ti ti-calendar" style="font-size:11px;"></i>${l.plazo}</span>` : '';
+  const cpv = l.cpv ? `<span class="badge badge-cpv">CPV ${l.cpv}</span>` : '';
+  const kw = l._kw ? `<span class="badge badge-kw">${l._kw}</span>` : '';
+  const dias = l.fechaPublicacion ? diasDesde(l.fechaPublicacion) : '';
+  const diasBadge = dias ? `<span class="badge badge-dias">${dias}</span>` : '';
+  const estado = estados[l.id] || 'pendiente';
+  const nota = notas[l.id] || '';
+  const goA = estado === 'go' ? 'active' : '';
+  const nogoA = estado === 'nogo' ? 'active' : '';
+  const notaOpen = nota ? 'open' : '';
+  const enlace = l.enlace || 'https://contrataciondelestado.es';
+  const id = l.id.replace(/[^a-zA-Z0-9_-]/g, '_');
+
+  return `<div class="card estado-${estado}" id="c-${id}">
+    <div class="card-top">
+      <p class="card-title">${titulo}</p>
+      <a href="${enlace}" target="_blank" class="link" title="Ver en PLACE"><i class="ti ti-external-link"></i></a>
+    </div>
+    <p class="card-org"><i class="ti ti-building" style="font-size:12px;"></i> ${org}</p>
+    <div class="card-meta">${kw}${importe}${plazo}${cpv}${diasBadge}</div>
+    <div class="actions">
+      <button class="btn go-btn ${goA}" onclick="setEstado('${l.id}','go')"><i class="ti ti-circle-check" style="font-size:13px;"></i> GO</button>
+      <button class="btn nogo-btn ${nogoA}" onclick="setEstado('${l.id}','nogo')"><i class="ti ti-circle-x" style="font-size:13px;"></i> NO-GO</button>
+      <button class="btn" onclick="toggleNota('${l.id}')"><i class="ti ti-notes" style="font-size:13px;"></i> ${nota ? 'Ver nota' : 'Nota'}</button>
+    </div>
+    <div class="nota-wrap ${notaOpen}" id="nw-${id}">
+      <textarea class="nota" rows="2" placeholder="Motivo, observaciones..." id="nt-${id}" onblur="saveNota('${l.id}')">${nota}</textarea>
+      <div class="nota-saved" id="ns-${id}"><i class="ti ti-check"></i> Guardado</div>
+    </div>
+  </div>`;
+}
+
+function diasDesde(fecha) {
+  try {
+    const d = new Date(fecha.includes('/') ? fecha.split('/').reverse().join('-') : fecha);
+    const diff = Math.floor((Date.now() - d.getTime()) / 86400000);
+    return diff === 0 ? 'Hoy' : diff === 1 ? 'Ayer' : `Hace ${diff} días`;
+  } catch(e) { return ''; }
+}
+
+function setEstado(id, nuevo) {
+  const actual = estados[id] || 'pendiente';
+  estados[id] = actual === nuevo ? 'pendiente' : nuevo;
+  saveStorage();
+  render();
+  if (estados[id] === 'nogo') {
+    const sid = id.replace(/[^a-zA-Z0-9_-]/g, '_');
+    setTimeout(() => {
+      const w = document.getElementById('nw-' + sid);
+      if (w) { w.classList.add('open'); const t = document.getElementById('nt-' + sid); if(t) t.focus(); }
+    }, 80);
+  }
+}
+
+function toggleNota(id) {
+  const sid = id.replace(/[^a-zA-Z0-9_-]/g, '_');
+  const w = document.getElementById('nw-' + sid);
+  if (w) { w.classList.toggle('open'); if(w.classList.contains('open')) { const t = document.getElementById('nt-'+sid); if(t) t.focus(); } }
+}
+
+function saveNota(id) {
+  const sid = id.replace(/[^a-zA-Z0-9_-]/g, '_');
+  const ta = document.getElementById('nt-' + sid);
+  if (!ta) return;
+  notas[id] = ta.value;
+  saveStorage();
+  const s = document.getElementById('ns-' + sid);
+  if (s) { s.style.display = 'block'; setTimeout(() => s.style.display = 'none', 1500); }
+}
+
+loadStorage();
+init();
+</script>
+</body>
+</html>
