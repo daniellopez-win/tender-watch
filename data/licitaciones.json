@@ -1,5 +1,215 @@
 {
-  "actualizado": "2026-06-25T10:36:23",
-  "total": 0,
-  "licitaciones": []
+  "actualizado": "2026-06-25T10:45:38",
+  "total": 19,
+  "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19814591",
+      "titulo": "obras para la Ejecución Del proyecto de renovación del centro de interpretación de la calzada romana y Museo Forestal y mejora del acceso de la propia calzada en el Ayuntamiento de Pesquera",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=U1OI4XZftWzVGIpKDxgsAQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/14799460",
+      "titulo": "Suministro, instalación y mantenimiento de un sorter de sobres en la delegación de Correos Express de Santa Perpetua.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=4kLHaZ7D66rs%2BnLj3vAg5A%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925011",
+      "titulo": "Obras de rehabilitación y adecuación de edificio histórico para centro de interpretación de la cultura y patrimonio de Archidona",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=B4nYxfNEhTdQFSeKCRun4Q%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18242455",
+      "titulo": "Acuerdo Marco para el suministro de vestuario para la Jefatura del Cuerpo de Bomberos del Ayuntamiento de Madrid (11 lotes).",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EgqdiQrQAWbN3k3tjedSGw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925112",
+      "titulo": "Mantenimiento adaptativo hacia la transformación digital de los sistemas de gestión universitarios y web de la Universidad Autónoma de Madrid",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1Yfz4a3%2B8El9PLkba5eRog%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19885885",
+      "titulo": "servicio integral de diseño, programación, puesta en marcha y mantenimiento de un nuevo portal web de formación de la Mancomunidad de Municipios de la Costa del Sol Occidental (fomacion.mancomunidad.org)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3ubBR57hNoxWhbmkna2nXQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19616445",
+      "titulo": "Servicio de formación en habilidades interpersonales para el personal de las OCIAC de la Administación Pública de CAC.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qthTo1my1NtxseVhcqrkhw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925237",
+      "titulo": "Dirección de ejecución y coordinación de seguridad y salud de las obras de reparación de filtraciones en el cuerpo bajo graderío del Estadio de Atletismo \"Corona de Aragón\" en Zaragoza.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bKQULyPkndeIzo3LHNPGcQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18926059",
+      "titulo": "Servicio de Mantenimiento y Soporte Técnico del Sistema Informático del Ayuntamiento de San Bartolomé",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cPp0ZSRxVM%2BcTfjQf3USOg%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19246065",
+      "titulo": "Contrato de suministro de chalecos de protección multirriesgo para servicios especializados del Cuerpo de Policía Municipal de Madrid",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=DpNWL23HGwczjChw4z%2FXvw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/16126848",
+      "titulo": "Contratación del Servicio de Desarrollo o Adaptación de Soluciones, puesta en marcha, configuración y puesta en operación, y funcionamiento de un sistema informático multiplataforma que contenga una APP, una aplicación Web y su mantenimiento.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YsrTp8YPD40adbH3CysQuQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925275",
+      "titulo": "Dirección de obra del contrato de obras de reparación de filtraciones en el cuerpo bajo graderío del Estadio de Atletismo \"Corona de Aragón\" de Zaragoza",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BVlu3zL%2BavnE6P%2FuLemXRw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19235594",
+      "titulo": "Suministro de licencia de usuario final de Universal Desktop Services (UDS) Enterprise ilimitada con cobertura de servicios de mantenimiento y soporte profesional de este software.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Q0Zaqb5Vk%2BnyoM4us5k4vw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19357459",
+      "titulo": "Contrato mixto de suministro y servicios para la operación, soporte y mantenimiento (correctivo, preventivo y evolutivo) de la plataforma digital basada en Sitecore AI (SAAS), incluyendo la renovación de la suscripción y las actuaciones de actualización del entorno vigente",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iFTe%2B2ZnKzMUqXM96WStVA%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925476",
+      "titulo": "Adquisición de diferentes licencias de productos necesarios para el correcto funcionamiento de la plataforma de servidores y equipos informáticos de la Subdirección de Tecnología y Transformación Digital de la AECID.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9SGaPyw9LbmHCIsjvJ3rhQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925503",
+      "titulo": "Suministro de Suscripción de Licencias de Software Crowdstrike de Protección y Seguridad en modalidad Enterprise y de Gestión de Vulnerabilidades para el puesto de trabajo informático.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=svctkKx4DxbyoM4us5k4vw%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19122958",
+      "titulo": "Proyecto 05/22 de implantación de los planes de emergencia de las presas del Taibilla (AB/Nerpio)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mP6XdANOZv3CfVQHDepjGQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12432751",
+      "titulo": "servicio de interpretación telefónica multilingüe para la red de recursos del Instituto de la Mujer",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iBXI81VySQguf4aBO%2BvQlQ%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19067157",
+      "titulo": "Servicio para la asistencia técnica de control y vigilancia de ejecución del proyecto de renovación de los órganos de desagüe de la Presa del Taibilla (AB/Nerpio).",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YSlWdq%2FRWDWdkQsA7ROvsg%3D%3D",
+      "fechaPublicacion": "2026-06-24",
+      "_kw": "ERP"
+    }
+  ]
 }
