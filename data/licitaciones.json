@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-06-28T12:09:29",
-  "total": 19,
+  "actualizado": "2026-06-29T17:18:49",
+  "total": 20,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19940714",
+      "titulo": "Contrato de Suministro de cartuchería destinada al Cuerpo de Policía Municipal del Ayuntamiento de Madrid",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IIhHhMfmwIaLAncw3qdZkA%3D%3D",
+      "fechaPublicacion": "2026-06-28",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19938415",
       "titulo": "Contratación del servicio de traducción especializada en arte y cultura, del castellano a inglés, para el portal Web Patrimonial de la Colección Banco de España.",
