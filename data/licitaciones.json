@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-07-04T11:53:39",
-  "total": 31,
+  "actualizado": "2026-07-05T11:59:05",
+  "total": 32,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19986536",
+      "titulo": "Consultoría para la transformación digital del puesto de usuario de la Autoridad Portuaria de Bilbao.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BMNSQ%2BzyK2tSYrkJkLlFdw%3D%3D",
+      "fechaPublicacion": "2026-07-04",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/8908657",
       "titulo": "Servicio de diseño, desarrollo y mantenimiento del portal web del sistema de monitorización turística de Asturias",
