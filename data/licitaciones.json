@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-07-11T10:45:42",
-  "total": 24,
+  "actualizado": "2026-07-13T16:15:46",
+  "total": 16,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17999309",
+      "titulo": "Servicios de Apoyo de Consultoría Estratégica para la Transformación Digital de la Guardia Civil",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=SvIEDjE1xDSExvMJXBMHHQ%3D%3D",
+      "fechaPublicacion": "2026-07-12",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19786718",
       "titulo": "Contratación del suministro, implantación y soporte técnico de un sistema informático de contact center cloud multicanal con capacidades agénticas para FRATERNIDAD-MUPRESPA.",
@@ -166,105 +177,6 @@
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gEiu3xcEo2w7u6%2B%2FR7DUoA%3D%3D",
       "fechaPublicacion": "2026-07-10",
       "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20010437",
-      "titulo": "El objeto del contrato es la prestación de servicios de interpretación artística para la celebración de las actuaciones que se relacionan a continuación a través de la empresa que tiene cedidos los derechos de representación artística de los artistas referenciados:\r\n- Dj Nano\r\n- Basty Beam\r\n- Orquesta La Fiesta\r\n- Camela\r\n- Orquesta Maxims\r\n- Orquesta Bahía Show\r\n- Les Castizos",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=agd%2B7qKpnWNPpzdqOdhuWg%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19949838",
-      "titulo": "Servicio integral de traducción e interpretación de idiomas para ASEPEYO",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=sTrPeyIt1i7CfVQHDepjGQ%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12276519",
-      "titulo": "Obras de reparación de deficiencias y  mantenimiento del centro de interpretación de Sa Capelleta 12.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0U56GCO60nh7h85%2Fpmmsfw%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19227067",
-      "titulo": "Servicios de consolidación y evolución de la transformación digital en las entidades locales de la provincia de A Coruña y evolución funcional y tecnológica de plataformas, en el marco del proyecto CONCELLO DIXITAL",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Pc2%2BY%2Fr4LYY7u6%2B%2FR7DUoA%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "transformación digital"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20015324",
-      "titulo": "Contratación para la renovación del servicio mantenimiento AMC_ET Enterprise Edition para 15 usuarios",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Msc2Vk48V219PLkba5eRog%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19988233",
-      "titulo": "Adquisición y colocación de defensas en el muelle Buenavista, Donibane y Trintxerpe en el Puerto de Pasaia",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8nzbpyetpkwS7pcxhTeWOg%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19965521",
-      "titulo": "Suministro SGA (Software Gestión Almacenes)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=s05CIiLycvfmnwcj%2BxbdTg%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "software gestión"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900535",
-      "titulo": "Consultoría para diseñar, desarrollar e implementar una Plataforma Digital de Financiamiento Climático que articule la oferta y la demanda de financiamiento climático, facilitando el acceso de los actores subnacionales a fuentes de financiamiento mediante herramientas digitales de búsqueda, autodiagnóstico y apoyo a la formulación",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EE%2FkfcZu2dQ7u6%2B%2FR7DUoA%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "plataforma digital"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19688131",
-      "titulo": "Contrato mixto de suministro y servicios de la nueva carpeta ciudadana única electrónica (aplicación web)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=W7Q9qmyJN6AXhk1FZxEyvw%3D%3D",
-      "fechaPublicacion": "2026-07-10",
-      "_kw": "aplicación web"
     }
   ]
 }
