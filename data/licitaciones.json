@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-07-18T10:50:11",
-  "total": 25,
+  "actualizado": "2026-07-19T11:01:15",
+  "total": 20,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19931142",
+      "titulo": "Contrato del servicio de diseño, producción, suministro e implantación museográfica integral del Centro de Interpretación del Románico en Burgos y La Bureba, que se ubicará en el Conjunto Monumental de Santa Clara de Briviesca (Burgos)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eM0OsZlSWnprSd8H4b2soA%3D%3D",
+      "fechaPublicacion": "2026-07-18",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20077616",
       "titulo": "Suministro de licencias de software Microsoft 365 y Chat GPT Enterprise y  formación online  Chat GPT",
@@ -76,17 +87,6 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=L7RO%2B334cc35Rey58Yagpg%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19931142",
-      "titulo": "Contrato del servicio de diseño, producción, suministro e implantación museográfica integral del Centro de Interpretación del Románico en Burgos y La Bureba, que se ubicará en el Conjunto Monumental de Santa Clara de Briviesca (Burgos)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eM0OsZlSWnprSd8H4b2soA%3D%3D",
       "fechaPublicacion": "2026-07-17",
       "_kw": "ERP"
     },
@@ -219,61 +219,6 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eM16bQGXtJ2FQ%2FlhRK79lA%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19140277",
-      "titulo": "Acuerdo Marco para la Contratación de los Servicios de Interpretación Musical de las distintas Festividades o Eventos que organice el Ayuntamiento de San Bartolomé",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9uHwi4fJdgacTfjQf3USOg%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19972109",
-      "titulo": "Edición, actualización y migración de contenidos y mantenimiento del Portal Web de la Universidad de Córdoba",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=DWs8cBn8Yng2wEhQbcAqug%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "portal web"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19672952",
-      "titulo": "Servicio de elaboración e implementación de herramientas digitales para la mejora de la interpretación del producto (Mallorca, Menorca e Eivissa) dentro del proyecto de la ruta cultural \"Les Illes Balears: Fenicios, Púnicos y Talayóticos\".",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bie3nYx%2FhGRWhbmkna2nXQ%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19925011",
-      "titulo": "Obras de rehabilitación y adecuación de edificio histórico para centro de interpretación de la cultura y patrimonio de Archidona",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=B4nYxfNEhTdQFSeKCRun4Q%3D%3D",
-      "fechaPublicacion": "2026-07-17",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18024938",
-      "titulo": "Servicio de traslado de donantes al Centro de Donación de Cuerpos y Salas de Disección y retirada y Cremación de restos cadavéricos (Clase IV) generados en el Centro de Donación de Cuerpos y Salas de Disección de la Universidad Complutense de Madrid",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1knJng5AFo2qb7rCcv76BA%3D%3D",
       "fechaPublicacion": "2026-07-17",
       "_kw": "ERP"
     }
