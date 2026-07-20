@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-07-19T11:01:15",
-  "total": 20,
+  "actualizado": "2026-07-20T13:31:21",
+  "total": 21,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18712429",
+      "titulo": "Servicio de Prevención Ajeno (SPA), Suministro software gestión CAE y software gestión integral sistema PRL",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=GtE2Rp%2FFqBTzAq95uGTrDQ%3D%3D",
+      "fechaPublicacion": "2026-07-19",
+      "_kw": "software gestión"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19931142",
       "titulo": "Contrato del servicio de diseño, producción, suministro e implantación museográfica integral del Centro de Interpretación del Románico en Burgos y La Bureba, que se ubicará en el Conjunto Monumental de Santa Clara de Briviesca (Burgos)",
