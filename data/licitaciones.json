@@ -1,5 +1,281 @@
 {
-  "actualizado": "2026-07-28T09:26:58",
-  "total": 0,
-  "licitaciones": []
+  "actualizado": "2026-07-29T09:30:49",
+  "total": 25,
+  "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18360237",
+      "titulo": "Musealización del Centro de Interpretación de las Estelas Funerarias de Tierras Altas en la localidad de Santa Cruz de Yanguas en la comarca de Tierras Altas de Soria",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BjJSK0mALgS5HQrHoP3G5A%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/16839094",
+      "titulo": "Ejecución de las obras necesarias para la construcción del Centro de Interpretación de las Estelas Funerarias de Tierras Altas en Santa Cruz de Yanguas, dentro del Plan de Sostenibilidad Turística en Destino del P.R.T.R., financiado por la Unión Europea – Next Generation EU.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=GSPlI4vtoEmTylGzYmBF9Q%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20077794",
+      "titulo": "Servicios de asistencia y representación letrada del Ayuntamiento de Brunete en el Recurso de Casación interpuesto contra la Sentencia recaída en el Procedimiento Ordinario 428/2023.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=L7RO%2B334cc35Rey58Yagpg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19798944",
+      "titulo": "Servicio especializado de apoyo estratégico y técnico a la Transformación Digital en umivale Activa",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kDNc5KnHHJwXhk1FZxEyvw%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19526064",
+      "titulo": "Adquisición de cuatro equipos de video-espectro comparadores con sistema informático de gestión del sistema para su suministro a las Brigadas Provinciales de Policía Científica de Pamplona y Vitoria, así como en las Brigadas Locales de Alcalá de Henares e Ibiza.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=i9mOJSTroHCcTfjQf3USOg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19616680",
+      "titulo": "La celebración de un Acuerdo Marco con varios adjudicatarios para el suministro de tiras reactivas de medición de glucosa y cuerpos cetónicos en sangre y la puesta a disposición sin coste adicional del material necesario para la realización de la técnica, con destino a los Centros Sanitarios dependientes de la Gerencia Regional de Salud.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Cl%2F06sOXE4BPpzdqOdhuWg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19949529",
+      "titulo": "Soporte y mantenimiento de la aplicación móvil LPGC TU CIUDAD",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=74DYQU2%2BJHq7JOCXkOhcDg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "aplicación móvil"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20120593",
+      "titulo": "Contrato de mixto de servicios y suministro ERP",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zTHelDUIuKfmnwcj%2BxbdTg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/14502164",
+      "titulo": "Servicios de mantenimiento, alojamiento y prestación de los servicios gestionados del sistema informático UNIVERSITAS XXI",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=sEj0aaJBOhPIGlsa0Wad%2Bw%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18458546",
+      "titulo": "Servicio para la implantación y mantenimiento de un nuevo sistema informático para la gestión de recursos humanos en el Consell Insular d'Eivissa.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FSk59H4yVDBVq4S9zvaQpQ%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20077715",
+      "titulo": "Adquisición del software Suite Enterprise de Altair para la Universidad Politécnica de Madrid",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=vjNVG8PDGPE4NavIWzMcHA%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139228",
+      "titulo": "Contrato de suscripción a una plataforma online con dos colecciones de manuales universitarios de las editoriales McGraw-Hill y Pearson y libros de la Editorial García Maroto para la Biblioteca de la Universidad de Jaén",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=xR8pF3LcNJxQFSeKCRun4Q%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "plataforma online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19798866",
+      "titulo": "Tramitación contrato prestación de servicio gestión integral de contenidos y administración del portal web institucional, consistente en la prestación de todos los servicios necesarios para la maquetación, publicación, mantenimiento, actualización y optimización de los contenidos del sitio web oficial del Ayuntamiento de Ciudad Real. (www.ciudadreal.es)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=rT4WehVJXBJrSd8H4b2soA%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19910363",
+      "titulo": "Adquisición de un vehículo para la Policía Local del Ayuntamiento de Montesa, con el equipamiento policial necesario para el desempeño de las funciones propias del Cuerpo.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Lh78X6sRrfOFQ%2FlhRK79lA%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/12543717",
+      "titulo": "Suministro mediante adquisición de uniformidad y material policial diverso para el personal adscrito al cuerpo de la Policía Local del Ayuntamiento de Fuengirola",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3P3YiiXY%2FBaXQV0WE7lYPw%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19791725",
+      "titulo": "Obras de ejecución de \"Proyecto para la adecuación de edificio municipal para centro de interpretación del olivar y del aceite sito en la Avenida San Antonio Abad 65 de Zaidín II\" con Anexo I Presupuesto actualizado",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nFVwB6d8ouWFQ%2FlhRK79lA%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139392",
+      "titulo": "Servicio De Control De Pasaportes (Ue 2017/226) Soporte A Fuerzas Y Cuerpos De Seguridad Del Estado En El Aeropuerto De Gran Canaria",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=DgsBgLJ8KN%2BP66GS%2BONYvQ%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20120768",
+      "titulo": "Servicio de interpretación artística para la celebración y producción de ocho espectáculos flamencos “Romance del Amor Brujo”, en 8 municipios de la provincia de Granada, dentro de la Programación Cultural Anual dirigida a la provincia, como conmemoración del 150 Aniversario del nacimiento de Manuel de Falla.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OfCdzH4OWI6HCIsjvJ3rhQ%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19814040",
+      "titulo": "Suministro de uniformidad y complementos destinados al servicio del cuerpo de la Policía Local del Ayuntamiento de Barbate",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=8O0F3bMxPw3s%2BnLj3vAg5A%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139403",
+      "titulo": "Contrato de suministro de las licencias de los productos Microsoft, en modalidad “Enterprise Agreement” y soporte unificado para el Defensor del Pueblo.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=7jPW4%2B984AiopEMYCmrbmw%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17136183",
+      "titulo": "Musealización del Centro de Interpretación del Valle del Alhama en la torre del homenaje del castillo de Magaña, en la comarca de Tierras Altas",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9FUqTjR%2BFR8QyBAnWzHfCg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19957601",
+      "titulo": "Redacción del Proyecto de Ejecución y Estudio de Seguridad y Salud para la Conservación y Adaptación del Cuerpo de Naves de la Destilería de la Azucarera de San Isidro para Espacios de Trabajo e Investigación del Campus UGR Sostenibilidad de la Universidad de Granada y Recuperación de las Áreas Libres del Sector de la Destilería para Parque del Campus.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=DbDEamqWSshPpzdqOdhuWg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19380048",
+      "titulo": "Servicio de limpieza de instalaciones de la Zona Presa. Años 2026-2028. (AB/Nerpio) CP. 02",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=giDoZDeoBfKAAM7L03kM8A%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15408291",
+      "titulo": "La contratación del servicio de gestión del hosting, dominio y mantenimiento de la web azuqueca.es, el CMS sobre el que se sustenta y la app móvil municipal.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g5PSWf5jk2QkJPJS%2BPS9vg%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "app móvil"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20001012",
+      "titulo": "servicio de reparación, mantenimiento y suministro de repuestos de obras publicas caterpillar en campo/taller en la zona de aragon, comunidad valenciana y murcia, a adjudicar por procedimiento abierto simplificado",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=M5i6QtBrjPykU02jNGj1Fw%3D%3D",
+      "fechaPublicacion": "2026-07-28",
+      "_kw": "ERP"
+    }
+  ]
 }
