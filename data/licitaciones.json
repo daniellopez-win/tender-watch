@@ -1,5 +1,259 @@
 {
-  "actualizado": "2026-07-30T09:19:08",
-  "total": 0,
-  "licitaciones": []
+  "actualizado": "2026-07-31T09:35:13",
+  "total": 23,
+  "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20150772",
+      "titulo": "Servicio de impartición de formación online en el Municipio de Collado Villalba promovidos por el Área de Desarrollo Local del Ayuntamiento de Collado Villalba",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cyXv1motAAXi0Kd8%2Brcp6w%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "formación online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19627387",
+      "titulo": "Contratación del servicio de uso de una plataforma online de promoción para el segmento de bodas en Paradores de Turismo de España, S.M.E., S.A.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=F1ievHTvEVqOUi78BmzhOQ%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "plataforma online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19879426",
+      "titulo": "Suministro de suscripciones Windows 10/11 Enterprise de la Autoridad Portuaria de Barcelona.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bwCkzKSyj8WAAM7L03kM8A%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19900535",
+      "titulo": "Consultoría para diseñar, desarrollar e implementar una Plataforma Digital de Financiamiento Climático que articule la oferta y la demanda de financiamiento climático, facilitando el acceso de los actores subnacionales a fuentes de financiamiento mediante herramientas digitales de búsqueda, autodiagnóstico y apoyo a la formulación",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EE%2FkfcZu2dQ7u6%2B%2FR7DUoA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20150929",
+      "titulo": "Contrato de servicios de naturaleza privada de interpretación artística, espectáculos y actuación musical del\r\nartista “FANGORIA” dentro del programa de las fiestas patronales del año 2026 del municipio de Mequinenza",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=y2pSDMtWIUu9Hd5zqvq9cg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20150968",
+      "titulo": "El objeto del presente contrato consiste en la renovación del servicio de actualización y soporte técnico (Oracle Premier Support) asociado a las diez (10) licencias perpetuas de Oracle Database Standard Edition 2, propiedad del Excmo. Cabildo Insular de La Gomera.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=VbUltgB9mdnIGlsa0Wad%2Bw%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139579",
+      "titulo": "Servicio de implantación de un nuevo sistema ERP",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=2UE7ey3Ju6d9Zh%2FyRJgM8w%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20151047",
+      "titulo": "Contrato de suministro e instalación de material expositivo para la renovación y adaptación de la musealización en el centro de interpretación de la Calzada Romana de la Vía de la Plata en Baños de Montemayor.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JnoQcDNQ1EfgL1BHd3qjQA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17817906",
+      "titulo": "Suministro de uniformidad y equipamiento del cuerpo de la Policía Local de Villanueva de la Serena, con una duración de dos años prorrogables por dos años más (máximo 4 años)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=uifQbjpJRrgaF6cS8TCh%2FA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19058688",
+      "titulo": "Proyecto 12/22 para las obras de automatización de los elementos de corte y regulación y su integración en el control centralizado en La Almenara nº2 del canal alto del Taibilla (AB/NERPIO). CP:02.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mMwOC%2F2CR2dPpzdqOdhuWg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18712708",
+      "titulo": "Servicios de desarrollo, mantenimiento, alojamiento, soporte, migración y gestión completa de contenidos del portal web corporativo del Ayuntamiento de Almería.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0Rfw%2B2xouwx%2BF6L2uCfUWg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19227163",
+      "titulo": "Obras de construcción del Centro de Interpretación del yacimiento arqueológico de San Babilés",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UKiOXygDq58%2Bk2oCbDosIw%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19972013",
+      "titulo": "Restauración para el evento \"Potencial Digital: 3ª Congreso Extremeño de transformación Digital, Inteligencia Artificial, Ciberseguridad y Robótica\"",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KhMntqGoJ%2BDXOjazN1Dw9Q%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19972048",
+      "titulo": "contratación del servicio de mantenimiento y soporte del software de gestión integrado Solmicro ERP y de la plataforma de comunicación con los profesores-clientes",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=tSeHWZEmduL10HRJw8TEnQ%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19994115",
+      "titulo": "Contrato de suministro de uniformidad y material de dotación policial para el cuerpo de la Policia Local del Ayuntamiento de Villalbilla (2 lotes)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IJzHtiG%2FjWVq1DdmE7eaXg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19965521",
+      "titulo": "Suministro SGA (Software Gestión Almacenes)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=s05CIiLycvfmnwcj%2BxbdTg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "software gestión"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19646255",
+      "titulo": "Servicios de apoyo a la gestión y la transformación digital de los destinos de la red DTI en el ámbito de la Plataforma Inteligente de Destinos y la Plataforma del Ecosistema para la Innovación Abierta Las necesidades a satisfacer se especifican con mayor detalle en el “PLIEGO DE PRESCRIPCIONES TÉCNICAS QUE HA DE REGIR LA CONTRATACIÓN\"",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zcOhcmLx9vHE6P%2FuLemXRw%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19067157",
+      "titulo": "Servicio para la asistencia técnica de control y vigilancia de ejecución del proyecto de renovación de los órganos de desagüe de la Presa del Taibilla (AB/Nerpio).",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YSlWdq%2FRWDWdkQsA7ROvsg%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20151312",
+      "titulo": "Mantenimiento Integral Del Compresor Y Equipos De Respiración Autónoma Del Parque Ssei  Del Aerpuerto  De Girona-Costa Brava",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JS8dHpt3Drfua%2Fi14w%2FPLA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19357459",
+      "titulo": "Contrato mixto de suministro y servicios para la operación, soporte y mantenimiento (correctivo, preventivo y evolutivo) de la plataforma digital basada en Sitecore AI (SAAS), incluyendo la renovación de la suscripción y las actuaciones de actualización del entorno vigente",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=iFTe%2B2ZnKzMUqXM96WStVA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19596515",
+      "titulo": "Suministro de los caramelos, confetis y serpentinas necesarios para la Cabalgata de Reyes, a celebrar el día 5 de enero de los años 2027 y 2028",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=vOOAOlRO6%2FD10HRJw8TEnQ%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19879739",
+      "titulo": "Mantenimiento y Soporte Técnico del portal Web",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=K7%2BHhGup%2BkwaF6cS8TCh%2FA%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18888291",
+      "titulo": "SERPE25131 Redacción del proyecto básico y de ejecución de obras de las bases del Plan INFOEX por lotes. Lote 1 CORIA, Lote 2 TRUJILLO Y Lote 3 ZAFRA)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2F0XQ1ewgORbCfVQHDepjGQ%3D%3D",
+      "fechaPublicacion": "2026-07-29",
+      "_kw": "ERP"
+    }
+  ]
 }
