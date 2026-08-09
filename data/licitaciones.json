@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-08T07:36:48",
-  "total": 24,
+  "actualizado": "2026-08-09T07:41:47",
+  "total": 25,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19940714",
+      "titulo": "Contrato de Suministro de cartuchería destinada al Cuerpo de Policía Municipal del Ayuntamiento de Madrid.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IIhHhMfmwIaLAncw3qdZkA%3D%3D",
+      "fechaPublicacion": "2026-08-08",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20248384",
       "titulo": "Contrato privado de interpretación artística musical para las Fiestas Patronales 2026 para el día 5 de septiembre de 2026.",
