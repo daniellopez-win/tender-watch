@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-09T07:41:47",
-  "total": 25,
+  "actualizado": "2026-08-10T08:18:35",
+  "total": 21,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20275206",
+      "titulo": "Contrato de suministro de gorras de la uniformidad ordinaria del Cuerpo de Policía Municipal de Madrid",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YztMvQsIN1UXhk1FZxEyvw%3D%3D",
+      "fechaPublicacion": "2026-08-09",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19940714",
       "titulo": "Contrato de Suministro de cartuchería destinada al Cuerpo de Policía Municipal del Ayuntamiento de Madrid.",
@@ -10,8 +21,30 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IIhHhMfmwIaLAncw3qdZkA%3D%3D",
-      "fechaPublicacion": "2026-08-08",
+      "fechaPublicacion": "2026-08-09",
       "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20275226",
+      "titulo": "Servicio de transformacion tecnica de seis furgones de combustion diesel rotulados para intervencion con destino al Cuerpo Generalde la Policia Canaria",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cEsk2L%2ByFQQ4NavIWzMcHA%3D%3D",
+      "fechaPublicacion": "2026-08-09",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19227100",
+      "titulo": "Implantación, puesta en marcha, soporte y mantenimiento de un sistema informático para la gestión integral de nóminas, RRHH y procesos selectivos del Ayuntamiento",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=acxNpaFC%2BH6AAM7L03kM8A%3D%3D",
+      "fechaPublicacion": "2026-08-09",
+      "_kw": "sistema informático"
     },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20248384",
@@ -146,17 +179,6 @@
       "_kw": "ERP"
     },
     {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19227100",
-      "titulo": "Implantación, puesta en marcha, soporte y mantenimiento de un sistema informático para la gestión integral de nóminas, RRHH y procesos selectivos del Ayuntamiento",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=acxNpaFC%2BH6AAM7L03kM8A%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "sistema informático"
-    },
-    {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19688131",
       "titulo": "Contrato mixto de suministro y servicios de la nueva carpeta ciudadana única electrónica (aplicación web)",
       "organismo": "",
@@ -210,72 +232,6 @@
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=s05CIiLycvfmnwcj%2BxbdTg%3D%3D",
       "fechaPublicacion": "2026-08-07",
       "_kw": "software gestión"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20269637",
-      "titulo": "Suministro Y Servicios De Soporte, Mantenimiento Y Suscripción De Licencias Microsoft (Enterprise Agreement Y Server And Cloud Enrollment) Para El Cdti E.P.E. (Centro Para El Desarrollo Tecnológico Y La Innovación E.P.E.)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BGkjVV%2BCtBstm4eBPtV6eQ%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19846936",
-      "titulo": "Implantación de un ERP (Enterprise Resource Planning), sistema de planificación de recursos empresariales en modalidad Software As A Service (SAAS) para la gestión económico-financiera, contable, presupuestaria, administrativa, patrimonial e inmobiliaria de la Empresa Municipal de la Vivienda y Suelo de Melilla S.A. (EMVISMESA).",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=S19nZh2cbgNVkTabT%2FRM8A%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19187522",
-      "titulo": "Contrato de suministro e implantación de software de planificación de recursos empresariales (ERP) y servicios de mantenimiento",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=185EDCdRuPEzjChw4z%2FXvw%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19235577",
-      "titulo": "Servicio integral que comprende el suministro, desarrollo, adaptación,\r\nimplantación, puesta en funcionamiento y mantenimiento de una aplicación integral para la gestión e interposición de denuncias, así como para el control y la vigilancia del estacionamiento regulado (ORA) en la ciudad de Palma.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=HhIfT20HlfG8ebB%2FXTwy0A%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20262458",
-      "titulo": "Interpretación artística de la orquesta “La Misión”",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=nbZh5CjLkAZ70UvEyYJSGw%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20077616",
-      "titulo": "Suministro de licencias de software Microsoft 365 y Chat GPT Enterprise y  formación online  Chat GPT",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=rnlMTiXNX4dSYrkJkLlFdw%3D%3D",
-      "fechaPublicacion": "2026-08-07",
-      "_kw": "formación online"
     }
   ]
 }
