@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-15T07:17:19",
-  "total": 26,
+  "actualizado": "2026-08-16T07:19:57",
+  "total": 27,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20303127",
+      "titulo": "Servicio de monitores de ocio y tiempo libre para la atención al público, dinamización de actividades, educación ambiental y realización de visitas guiadas en el Valle de los Seis Sentidos y en el Centro de Interpretación de la Naturaleza de Matallana.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=F2jrRskTPjDyoM4us5k4vw%3D%3D",
+      "fechaPublicacion": "2026-08-15",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20297052",
       "titulo": "Suministro De Licencias De Software Para El Ends (5005) (Ministerio Para La Transformación Digital Y De La Función Pública-Agencia Estatal De Administración Digital)",
