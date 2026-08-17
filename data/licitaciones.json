@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-16T07:19:57",
-  "total": 27,
+  "actualizado": "2026-08-17T07:39:37",
+  "total": 29,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20303964",
+      "titulo": "Contratación del servicio de centro de atención a usuarios de aplicaciones de transformación digital (CAUTD) y Protección internacional (LARES/SIGESPI) del Ministerio de Interior.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UnEbuoUFpozVGIpKDxgsAQ%3D%3D",
+      "fechaPublicacion": "2026-08-16",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20303965",
+      "titulo": "redaccion y ejecucion del proyecto museologico y museografico, produccion, suministro, instalacion y puesta en funcionamiento del centro de interpretacion de las zonas aridas de fuerteventura",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qU27f1BEn8COUi78BmzhOQ%3D%3D",
+      "fechaPublicacion": "2026-08-16",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20303127",
       "titulo": "Servicio de monitores de ocio y tiempo libre para la atención al público, dinamización de actividades, educación ambiental y realización de visitas guiadas en el Valle de los Seis Sentidos y en el Centro de Interpretación de la Naturaleza de Matallana.",
