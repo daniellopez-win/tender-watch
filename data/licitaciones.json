@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-22T07:19:56",
-  "total": 18,
+  "actualizado": "2026-08-23T07:21:38",
+  "total": 19,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20334563",
+      "titulo": "Suministro De Elementos De Ciberseguridad Para La Ampliación Del Servicio De Protección Perimetral Del Centro De Operaciones De Ciberseguridad De La Administración General Del Estado - 4996 (Ministerio Para La Transformación Digital Y De La Función Pública-Agencia Estatal De Administración Digital)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KoiIPxbIrSVVq4S9zvaQpQ%3D%3D",
+      "fechaPublicacion": "2026-08-22",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20328638",
       "titulo": "Constituye el objeto del contrato privado, interpretación artística musical para el Festival Flamenco del municipio de Prado del Rey, el día 29 de Agosto de 2026. La prestación del servicio artísticos del artista José Mercé.",
