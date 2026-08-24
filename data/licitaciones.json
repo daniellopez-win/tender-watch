@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-23T07:21:38",
-  "total": 19,
+  "actualizado": "2026-08-24T07:45:59",
+  "total": 20,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19140277",
+      "titulo": "Acuerdo Marco para la Contratación de los Servicios de Interpretación Musical de las distintas Festividades o Eventos que organice el Ayuntamiento de San Bartolomé",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9uHwi4fJdgacTfjQf3USOg%3D%3D",
+      "fechaPublicacion": "2026-08-23",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20334563",
       "titulo": "Suministro De Elementos De Ciberseguridad Para La Ampliación Del Servicio De Protección Perimetral Del Centro De Operaciones De Ciberseguridad De La Administración General Del Estado - 4996 (Ministerio Para La Transformación Digital Y De La Función Pública-Agencia Estatal De Administración Digital)",
