@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-30T12:16:08",
-  "total": 27,
+  "actualizado": "2026-08-31T14:27:31",
+  "total": 28,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19140277",
+      "titulo": "Acuerdo Marco para la Contratación de los Servicios de Interpretación Musical de las distintas Festividades o Eventos que organice el Ayuntamiento de San Bartolomé",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9uHwi4fJdgacTfjQf3USOg%3D%3D",
+      "fechaPublicacion": "2026-08-30",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19130261",
+      "titulo": "Contratación de los servicios de diseño y desarrollo web para FRATERNIDAD-MUPRESPA.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cj7gcz%2FQ8utt5r0ngvMetA%3D%3D",
+      "fechaPublicacion": "2026-08-30",
+      "_kw": "desarrollo web"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359022",
       "titulo": "Servicio de plataforma digital de aprendizaje de idiomas para el personal destinatario del Plan de Formación 2026 del Ministerio del Interior",
@@ -164,17 +186,6 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=pn2yKh5vqu7i0Kd8%2Brcp6w%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19140277",
-      "titulo": "Acuerdo Marco para la Contratación de los Servicios de Interpretación Musical de las distintas Festividades o Eventos que organice el Ayuntamiento de San Bartolomé",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9uHwi4fJdgacTfjQf3USOg%3D%3D",
       "fechaPublicacion": "2026-08-28",
       "_kw": "ERP"
     },
