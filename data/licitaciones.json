@@ -1,7 +1,216 @@
 {
-  "actualizado": "2026-08-31T14:27:31",
-  "total": 28,
+  "actualizado": "2026-09-01T12:06:28",
+  "total": 27,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20292407",
+      "titulo": "Organización y producción de interpretación artística del concierto de Ana Guerra el día 4 de septiembre durante las fiestas patronales de Yuncos 2026.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=PpCOhbrvII3LIx6q1oPaMg%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20292288",
+      "titulo": "Renovación de licencias de Haproxy Enterprise Edition",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=6RDSJ6usMcpeKgd8LfVV9g%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19672604",
+      "titulo": "Concesión de servicio de explotación y conservación del local de hostelería y restauración del Centro de Recursos Educativos para Adultos (CERPA).",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=c%2BeVCwDt2MM%2FbjW6njtWLw%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20361126",
+      "titulo": "1 Vehículo tipo furgoneta (M1 o N1) con MMA (1) menor de 3.500Kg. mediana L1H2\r\no L2H2, para transformación en vehículo policial de unidad canina K9 del cuerpo\r\nde la Policía Canaria, potencia mínima de 150 CV (110Kw)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=dN2HyZwTnQ75Rey58Yagpg%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19821265",
+      "titulo": "Suministro de cámaras de visión térmica para la Jefatura del Cuerpo de Bomberos del Ayuntamiento de Madrid (2 lotes)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0QGIIjaps%2FwwYTJJ03sHog%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19994709",
+      "titulo": "adquisición y puesta en marcha de equipamiento tecnológico dentro del plan de modernización y transformación digital del Ayuntamiento de Alcalá de Henares.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IalX2MGB4gYXhk1FZxEyvw%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20093416",
+      "titulo": "Servicio de formación para el personal del Real Cuerpo de Bomberos del Excmo. Ayuntamiento de Málaga.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=pwcVhl4HxKuS81gZFETWmA%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20068373",
+      "titulo": "Servicio de impartición de acciones formativas dentro del Programa de\r\nFormación Online del Instituto Municipal para la Formación y el Empleo\r\n(IMFE) del Excmo. Ayto. de Málaga para el año 2027",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=gnfRex871ARWhbmkna2nXQ%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "formación online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19732404",
+      "titulo": "Diseñar y desarrollar una plataforma digital segura, interoperable y escalable que permita la gestión integral de usuarios y entidades que integren el programa \"En Moviment\" de la Comunitat Valenciana, así como asegurar el mantenimiento y evolución funcional de la plataforma digital que gestiona el programa \"En Moviment\".",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=2WUslKrNwRzs%2BnLj3vAg5A%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19273261",
+      "titulo": "Servicio de mantenimiento de ascensores del ESAUM II, sede de las consejerías de Agricultura, Ganadería y Desarrollo Rural, Medio Ambiente, Vivienda y Ordenación del Territorio y Movilidad y Transformación Digital, C/ Rigoberto Cortejoso nº 14, (VA)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mpoN1F4l8FtQFSeKCRun4Q%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19500629",
+      "titulo": "Servicios de consultoría para la implementación y desarrollo del plan de transformación digital de promoción",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=a%2B3AfKtKC3GKeVWTb9Scog%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20361218",
+      "titulo": "Servicios, de carácter privado, para la interpretación artística, espectáculos y actuaciones musicales de los artistas Fórmula V, Los Kakaguetes, Juan Carlos Santomé, Aseres, Tuto Durán y Nia Correia, dentro de las fiestas y feria de San Miguel 2026",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=RwQuTsT3KK0S7pcxhTeWOg%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20106753",
+      "titulo": "Arrendamiento y mantenimiento de software para la organización interna, gestión de bienes y asignación de funciones y medios del Real Cuerpo de Bomberos del Ayuntamiento de Málaga.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1CJRR3IMTCDi0Kd8%2Brcp6w%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20305447",
+      "titulo": "INS_Servicio de gestión y organización integral de webinars para impartir formación online para el Instituto Nacional de Silicosis",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mAZN%2Bgt%2F9RxLAIVZdUs8KA%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "formación online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19972594",
+      "titulo": "Contratación del Suministro en Regimen de Arrendamiento de una Plataforma Digital de Gestión Web en Modo SaaS para los Centros de Participación Activa para Personas Mayores del Ayuntamiento de Marbella",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=CGDJ8C7jh%2BGcTfjQf3USOg%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19972013",
+      "titulo": "Restauración para el evento \"Potencial Digital: 3ª Congreso Extremeño de transformación Digital, Inteligencia Artificial, Ciberseguridad y Robótica\"",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KhMntqGoJ%2BDXOjazN1Dw9Q%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/15088091",
+      "titulo": "Servicio de puesta en marcha, mantenimiento y soporte de la plataforma de cursos de formación online en abierto de la Universidad Rey Juan Carlos.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YhK1W2WINCp%2FP7lJ7Fu0SA%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "formación online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20098772",
+      "titulo": "Servicios de evolución y mejora del sistema informático de Gestión de la Alimentación para la Inspección General del Ejército (IGE) en la sede de Barcelona,",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=lEPnD3jg%2BQl9Zh%2FyRJgM8w%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/18161375",
+      "titulo": "Servicio de soporte y gestión para el mantenimiento del sistema informático y prestaciones accesorias de la Fundación TAL: ordenadores y periféricos (hardware), red de datos, aplicaciones y sistema operativo, copias de seguridad y asistencia técnica para asegurar la continuidad de los sistemas y puestos de trabajo y la seguridad informática.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=FhpTBPBEMQdrSd8H4b2soA%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "sistema informático"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19140277",
       "titulo": "Acuerdo Marco para la Contratación de los Servicios de Interpretación Musical de las distintas Festividades o Eventos que organice el Ayuntamiento de San Bartolomé",
@@ -10,7 +219,7 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=9uHwi4fJdgacTfjQf3USOg%3D%3D",
-      "fechaPublicacion": "2026-08-30",
+      "fechaPublicacion": "2026-08-31",
       "_kw": "ERP"
     },
     {
@@ -21,8 +230,19 @@
       "plazo": "",
       "cpv": "",
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cj7gcz%2FQ8utt5r0ngvMetA%3D%3D",
-      "fechaPublicacion": "2026-08-30",
+      "fechaPublicacion": "2026-08-31",
       "_kw": "desarrollo web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19845949",
+      "titulo": "Servicios de implantación y mantenimiento de la app móvil municipal del ayuntamiento de Alcorcón.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=MKsZBVg%2FRnMZDGvgaZEVxQ%3D%3D",
+      "fechaPublicacion": "2026-08-31",
+      "_kw": "app móvil"
     },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359022",
@@ -45,17 +265,6 @@
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eM0OsZlSWnprSd8H4b2soA%3D%3D",
       "fechaPublicacion": "2026-08-28",
       "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19273261",
-      "titulo": "Servicio de mantenimiento de ascensores del ESAUM II, sede de las consejerías de Agricultura, Ganadería y Desarrollo Rural, Medio Ambiente, Vivienda y Ordenación del Territorio y Movilidad y Transformación Digital, C/ Rigoberto Cortejoso nº 14, (VA)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=mpoN1F4l8FtQFSeKCRun4Q%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "transformación digital"
     },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19404154",
@@ -89,226 +298,6 @@
       "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=0vibAAyjQ6%2FECtSnloz%2BZQ%3D%3D",
       "fechaPublicacion": "2026-08-28",
       "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20232864",
-      "titulo": "Contratación del servicio de seguimiento de noticias y alertas del Gabinete del Ministerio para la Transformación Digital y de la Función Pública (MTDFP).",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=3NMWARZ2seuqb7rCcv76BA%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "transformación digital"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20305362",
-      "titulo": "Servicios y suministros para la implantación de una plataforma de turismo inteligente, aplicación móvil (IOS y ANDROID) y creación de contenidos digitales inmersivos e inclusivos en Galera,cofinanciado al 85% por el FEDER, Programa Andalucía FEDER 2021-2027,   PATCUL 2025.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UW2FC%2Fsnas%2BsNfRW6APEDw%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "aplicación móvil"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20040518",
-      "titulo": "El alquiler de un camión-escenario con equipos de sonido, iluminación, audiovisuales y personal técnico necesario para dar soporte a varios espectáculos musicales en el Espacio Interpeñas de Barbastro durante las fiestas mayores de 2026.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Mox3d%2FuVnid%2BF6L2uCfUWg%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20098772",
-      "titulo": "Servicios de evolución y mejora del sistema informático de Gestión de la Alimentación para la Inspección General del Ejército (IGE) en la sede de Barcelona,",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=lEPnD3jg%2BQl9Zh%2FyRJgM8w%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "sistema informático"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359084",
-      "titulo": "Contratación del programa de mediación comunitaria en el Barrio del Perpetuo Socorro de la ciudad de Huesca",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LLekuZlKTvDI8aL3PRS10Q%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20317324",
-      "titulo": "Contratación de los siguientes servicios de Restauración (desayuno/café, café de tarde y almuerzo tipo cóctel);Cartelería y material de trabajo, dirigidos a satisfacer las necesidades de los participantes para la realización de un encuentro 1 Convención de jefes y jefas de Cuerpos de Policía Local y Guardia Civil,",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=7HJp%2BmpBy2nECtSnloz%2BZQ%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20151047",
-      "titulo": "Contrato de suministro e instalación de material expositivo para la renovación y adaptación de la musealización en el centro de interpretación de la Calzada Romana de la Vía de la Plata en Baños de Montemayor.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=JnoQcDNQ1EfgL1BHd3qjQA%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20015020",
-      "titulo": "Contratación de renting tecnológico para la implantación, explotación y mantenimiento de un sistema inteligente de captación, análisis, gestión y almacenamiento de información mediante dispositivos de videovigilancia a una plataforma digital de gestión.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=czEFJnFO8RjpxJFXpLZ%2B2A%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "plataforma digital"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19588230",
-      "titulo": "Migración del ERP Microsoft Dynamics 2012 a Microsoft Dynamics 365 F&O (suministro y servicio)",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=pn2yKh5vqu7i0Kd8%2Brcp6w%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20287444",
-      "titulo": "Servicio de impartición de cursos de formación online en el ámbito de las artes gráficas, dirigidos al personal de tropa destinado en la imprenta del Centro Geográfico del Ejército",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=g75EoHmva0Gzz8fXU2i3eQ%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "formación online"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359169",
-      "titulo": "Suministro de carburantes a los vehículos y máquinas de las secciones de Conservación y Explotación y Proyectos y Obras dependientes del S.T. de Movilidad y Transformación Digital de la Delegación Territorial de Castilla y León en Salamanca",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=grEssqJk8bYmMOlAXxDEjw%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "transformación digital"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19931130",
-      "titulo": "Mantenimiento del middleware de la aplicación móvil AppCRUE.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=lm89LaCj6lLs%2BnLj3vAg5A%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "aplicación móvil"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20344147",
-      "titulo": "T/029/2026: Interpretación artística de la banda \"Celtas Cortos\" el día 4 de septiembre de 2026 en la Plaza del Poeta Rafael Alberti de Puerto Real.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZWQi765pXPE7%2B9FIQYNjeQ%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19879722",
-      "titulo": "Traslado de toda la infraestructura del ERP desde nuestros servidores al sistema Cloud para la prestación del servicio de soporte,\r\nmantenimiento y gestión del sistema de Gestión Integrado Fundanet",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=eM16bQGXtJ2FQ%2FlhRK79lA%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19179355",
-      "titulo": "Prestación de los servicios informáticos de soporte y gestión de la infraestructura ERP G3-CERSA de los entornos y servicios consumidos para CERSA de los ejercicios 2026, 2027 y 2028",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=flkCCySMadFVq4S9zvaQpQ%3D%3D",
-      "fechaPublicacion": "2026-08-28",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139949",
-      "titulo": "Contrato de servicio de ejecución del Proyecto Museográfico del Conjunto  Arqueológico Eras del Alcázar de la ciudad de Úbeda, mediante la interpretación y  producción de contenidos y creación de recursos audiovisuales.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ZfBPo9bHTQedkQsA7ROvsg%3D%3D",
-      "fechaPublicacion": "2026-08-27",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20275226",
-      "titulo": "Servicio de transformacion tecnica de seis furgones de combustion diesel rotulados para intervencion con destino al Cuerpo Generalde la Policia Canaria",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cEsk2L%2ByFQQ4NavIWzMcHA%3D%3D",
-      "fechaPublicacion": "2026-08-27",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/16882528",
-      "titulo": "Servicio de interpretación de lengua de signos española para el alumnado con discapacidad auditiva, usuario de la lengua española, en centros docentes públicos de la comunidad de Castilla y León.",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=OY7%2BpLndsQctm4eBPtV6eQ%3D%3D",
-      "fechaPublicacion": "2026-08-27",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19886138",
-      "titulo": "Acuerdo marco para el suministro de elementos conmemorativos, articulos de representación institucional y promocional y equipamiento modular para eventos institucionales y  promocionales para la jefatura del cuerpo de bomberos (3 lotes).",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=jKhOUJo1QUTIGlsa0Wad%2Bw%3D%3D",
-      "fechaPublicacion": "2026-08-27",
-      "_kw": "ERP"
-    },
-    {
-      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20060219",
-      "titulo": "Servicio de gestión de contenidos del portal web de apoyo al aprendizaje de lenguas para Corporació Audiovisual de la Comunitat Valenciana (CACVSA).",
-      "organismo": "",
-      "importe": "",
-      "plazo": "",
-      "cpv": "",
-      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=dxSK14La7A%2BP66GS%2BONYvQ%3D%3D",
-      "fechaPublicacion": "2026-08-27",
-      "_kw": "portal web"
     }
   ]
 }
