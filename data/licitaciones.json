@@ -1,5 +1,182 @@
 {
-  "actualizado": "2026-09-26T11:49:24",
-  "total": 0,
-  "licitaciones": []
+  "actualizado": "2026-09-27T12:30:41",
+  "total": 16,
+  "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19979312",
+      "titulo": "Servicios de rediseño completo y mantenimiento del portal web de comercio y consumo del Ayuntamiento de Armilla",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=B39I8qF%2BeV836J9Lctlsuw%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20112702",
+      "titulo": "C. Servicio de Mantenimiento del sistema de gestión de contenidos del portal web de la radio municipal.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Y7IU7eNlbz0aF6cS8TCh%2FA%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20000687",
+      "titulo": "Servicio, por lotes, de asistencia técnica para la elaboración de esquemas de interpretación y modelos económicos sostenibles en dos parques nacionales de Senegal, con el fin de compatibilizar la conservación de sus valores naturales y patrimoniales con una mejora ordenada de la experiencia de visita, la protección de zonas sensibles y la sostenibilidad financiera de los espacios protegidos",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KunF%2B7KvdOR4zIRvjBVCSw%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20417532",
+      "titulo": "Servicio de interpretación artística de la Asociación Cultural Banda Música Virgen de Ermitana de Peñíscola.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FwwcekC%2FsqQ36J9Lctlsuw%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20093205",
+      "titulo": "Servicio de exámenes de salud periódicos y vacunación antigripal para el personal de las Jefaturas Provinciales de Inspección de Telecomunicaciones de las comunidades autónomas de Aragón, Cataluña, Comunidad \r\nValenciana, Islas Baleares (Palma de Mallorca) y Región de Murcia del Ministerio para la Transformación Digital y de la Función Pública (en adelante MTDFP)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=qer3agXfsNCqb7rCcv76BA%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20499625",
+      "titulo": "Servicio de limpieza y retirada selectiva de residuos en los edificios sede de la Delegación Provincial de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital en Toledo.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=whyj4T9sOcN9Zh%2FyRJgM8w%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19979473",
+      "titulo": "Implantación y mantenimiento de un sistema informático para la gestión de nóminas del Ayuntamiento de Torrelodones",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=oaHaS4b0GM5rSd8H4b2soA%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20359084",
+      "titulo": "Contratación del programa de mediación comunitaria en el Barrio del Perpetuo Socorro de la ciudad de Huesca",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=LLekuZlKTvDI8aL3PRS10Q%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20545479",
+      "titulo": "Contrato de suministro de vestuario para la plantilla de la Policía Local y del servicio de seguridad de la Grúa Municipal y del Depósito Municipal de Vehículos del Ayuntamiento de Albacete, basado en el Acuerdo Marco para la contratación del suministro de uniformidad de los cuerpos de Policía Local de Castilla-La Mancha por la CC FEMPCLM. Expte. 71/2026.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Jp6kBnWLmt8%2B1TMyIiZmzw%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20545513",
+      "titulo": "Suministro de sistema informático para la gestión de las bibliotecas municipales del Ayuntamiento de Arteixo",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=xzVoaFy7JDwIYE3ZiZ%2BxmQ%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "sistema informático"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19879426",
+      "titulo": "Suministro de suscripciones Windows 10/11 Enterprise de la Autoridad Portuaria de Barcelona.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=bwCkzKSyj8WAAM7L03kM8A%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139579",
+      "titulo": "Servicio de implantación de un nuevo sistema ERP",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=2UE7ey3Ju6d9Zh%2FyRJgM8w%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20545587",
+      "titulo": "La prestación integral de los servicios de consolidación, mantenimiento preventivo, adaptativo, correctivo y evolutivo, desarrollo y soporte funcional y técnico del sistema ERP SAP S/4HANA implantado en el CCS.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ST5MnsMHiXnjHF5qKI4aaw%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20139392",
+      "titulo": "Servicio De Control De Pasaportes (Ue 2017/226) Soporte A Fuerzas Y Cuerpos De Seguridad Del Estado En El Aeropuerto De Gran Canaria",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=DgsBgLJ8KN%2BP66GS%2BONYvQ%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20077637",
+      "titulo": "Servicio de exámenes de salud periódicos y vacunación antigripal para el personal de las Jefaturas Provinciales de Inspección de Telecomunicaciones de las comunidades autónomas de Castilla y León, Castilla La Mancha y Extremadura del Ministerio para la Transformación Digital y de la Función Pública (en adelante MTDFP)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=VbFoQcV%2Bxwbi0Kd8%2Brcp6w%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20542528",
+      "titulo": "Sistema informático para la gestión integral de los recursos humanos del Ayuntamiento de Palencia, control horario y confección de la nómina, Plantilla Orgánica (plazas), RPT y presupuesto de personal, incluyendo la migración de datos, así como el servicio de su mantenimiento y soporte.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FMVYhx9L110l5NjlNci%2BtA%3D%3D",
+      "fechaPublicacion": "2026-09-22",
+      "_kw": "sistema informático"
+    }
+  ]
 }
