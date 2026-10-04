@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03T12:11:15",
-  "total": 19,
+  "actualizado": "2026-10-04T12:53:21",
+  "total": 20,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19499275",
+      "titulo": "Servicio de traducción e interpretación para la Dirección General de Cooperación Jurídica Internacional.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Fxpdlkg7BVN9Zh%2FyRJgM8w%3D%3D",
+      "fechaPublicacion": "2026-10-03",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20611272",
       "titulo": "Plataforma de formación online multimedia e interactiva para el municipio de Orihuela",
