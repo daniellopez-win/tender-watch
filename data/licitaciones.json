@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-04T12:53:21",
-  "total": 20,
+  "actualizado": "2026-10-05T15:18:57",
+  "total": 23,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20621410",
+      "titulo": "Suministro correspondiente a la suscripción y el mantenimiento de una solución de archivado de correo electrónico con Enterprise Vault",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=AoBljJWKnicZDGvgaZEVxQ%3D%3D",
+      "fechaPublicacion": "2026-10-04",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19569137",
+      "titulo": "Suministro para la adquisición de renovación de licencias CITRIX Cloud (antes CITRIX Xendestop Enterprise).",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=zrZ40w6QLXaP%2Bo96UAV7cQ%3D%3D",
+      "fechaPublicacion": "2026-10-04",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19551307",
+      "titulo": "Suministro de actualización y soporte de licencias para la plataforma de acceso y gestión de identidades del portal web del Poder Judicial.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=EECnKv2eNZa5HQrHoP3G5A%3D%3D",
+      "fechaPublicacion": "2026-10-04",
+      "_kw": "portal web"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19499275",
       "titulo": "Servicio de traducción e interpretación para la Dirección General de Cooperación Jurídica Internacional.",
