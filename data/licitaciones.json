@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-10T13:05:11",
-  "total": 20,
+  "actualizado": "2026-10-11T13:33:51",
+  "total": 22,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20676672",
+      "titulo": "Suministro mediante subscripción, actualización y mantenimiento de licencias de productos del fabricante Microsoft mediante contrato en modalidad Enterprise Agreement Subscription",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yO2oIvIfbnt%2FP7lJ7Fu0SA%3D%3D",
+      "fechaPublicacion": "2026-10-10",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20676740",
+      "titulo": "Suministro De Una Solución Controladora De Entrega De Aplicaciones Para La Dirección General De Transformación Digital De La Administración De Justicia (Ministerio De La Presidencia, Justicia Y Relaciones Con Las Cortes-Subdirección General De Calidad De Los Servicios Digitales, Ciberseguridad Y Operaciones)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1XuNJ61l6uA%2Bk2oCbDosIw%3D%3D",
+      "fechaPublicacion": "2026-10-10",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20670592",
       "titulo": "La obra consiste en la ejecución de una PASARELA AÉREA CON VARIAS ESTACIONES DE INTERPRETACIÓN TEMATIZADAS, EN EL PINAR RASO DE LA NAVA, en el término municipal de Covaleda, en la forma y condiciones establecidas en el Proyecto que sirve de base al mismo.",
