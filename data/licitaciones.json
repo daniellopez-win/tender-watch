@@ -1,7 +1,128 @@
 {
-  "actualizado": "2026-10-11T13:33:51",
-  "total": 22,
+  "actualizado": "2026-10-13T14:44:00",
+  "total": 33,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20311370",
+      "titulo": "Contratación del suministro para solución integral de administración electrónica y gestión municipal en modalidad software as a service (SAAS) del ayuntamiento de Baza, incluido en el proyecto 3 Transformación Digital para una ciudad más conectada  operación P3.A.1 instalación de plataforma digital financiado en el marco del Plan de Actuación Integrado PAI Baza 2030",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=KkLyIX6nyFomMOlAXxDEjw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "plataforma digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677099",
+      "titulo": "Suministro De Licencias Para El Servicio De Protección De Correo Electrónico De Rediris A Sus Instituciones Afiliadas (Ministerio Para La Transformación Digital Y De La Función Pública-Entidad Pública Empresarial Red.Es)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YeyWfkjEkesS7pcxhTeWOg%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677100",
+      "titulo": "Renovación De Las Licencias Del Gestor De Contenidos Del Portal Web Institucional Del Csn (Consejo De Seguridad Nuclear)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QSn8OKKf4B4wYTJJ03sHog%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "portal web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677101",
+      "titulo": "Desarrollo De Nuevas Funcionalidades Para La Mejora De Cruces De Datos\nDe Mutualistas De Muface Con Otros Organismos (26010) (Ministerio Para La Transformación Digital Y De La Función Pública-Mutualidad General De Funcionarias Y Funcionarios Civiles Del Estado, O.A (Muface))",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=kQJgfxRx%2F6FJ8Trn0ZPzLw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677103",
+      "titulo": "Servicios De Desarrollo Y Mantenimiento De Sistemas De Tramitación Y Automatización (4989) (Ministerio Para La Transformación Digital Y De La Función Pública-Agencia Estatal De Administración Digital)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cC%2B9KQjz6YBeKgd8LfVV9g%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677105",
+      "titulo": "X260174ssoee - Aplicación Web Para La Gestión De Entidades Beneficiarias (Desarrollo Nomarca) (Ministerio Del Interior-S. De E. De Seguridad)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2Btlj%2FIYNAApxseVhcqrkhw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "aplicación web"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677125",
+      "titulo": "Servicios de Apoyo Técnico para la Gestión del Espacio Aéreo, la Administración Documental en SharePoint, el Ciberespacio y la Transformación Digital del Ejército del Aire y del Espacio",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QQ%2Bl%2FCvqhJngL1BHd3qjQA%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "transformación digital"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19534582",
+      "titulo": "Servicio de traducción e interpretación en los órganos judiciales adscritos a las Gerencias Territoriales del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes y de notas de condena procedentes de Tribunales de la Unión Europea y de los países signatarios del Convenio Europeo de Asistencia Judicial en Materia Penal",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=G7ACMoKZhcoXhk1FZxEyvw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20305362",
+      "titulo": "Servicios y suministros para la implantación de una plataforma de turismo inteligente, aplicación móvil (IOS y ANDROID) y creación de contenidos digitales inmersivos e inclusivos en Galera,cofinanciado al 85% por el FEDER, Programa Andalucía FEDER 2021-2027,   PATCUL 2025.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UW2FC%2Fsnas%2BsNfRW6APEDw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "aplicación móvil"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677145",
+      "titulo": "la ejecución de las obras definidas en el proyecto técnico denominado   FASE 2 sala intwerpretacion y exposicion en calle Pepe Casco",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=NtSthMQ6UXY36J9Lctlsuw%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20677148",
+      "titulo": "Contratación de servicios de una plataforma de Transformación digital de procesos y servicios de minería y análisis de procesos",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=aiHIckLEJ%2FswYTJJ03sHog%3D%3D",
+      "fechaPublicacion": "2026-10-11",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20676672",
       "titulo": "Suministro mediante subscripción, actualización y mantenimiento de licencias de productos del fabricante Microsoft mediante contrato en modalidad Enterprise Agreement Subscription",
