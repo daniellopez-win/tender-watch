@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-17T11:13:10",
-  "total": 22,
+  "actualizado": "2026-10-18T11:45:05",
+  "total": 25,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/17036548",
+      "titulo": "Impartición de formación online de capacitación de las funciones de nivel básico en prevención de riesgos laborales",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=BHXib60PlC4kJPJS%2BPS9vg%3D%3D",
+      "fechaPublicacion": "2026-10-17",
+      "_kw": "formación online"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20712467",
+      "titulo": "Suministro De Licencias Del Sistema De Control De Calidad Sonarqube Enterprise Edition Del Ministerio De Asuntos Exteriores, Unión Europea Y Cooperación (Ministerio De Asuntos Exteriores, Unión Europea Y Cooperación-S.G. De Informatica, Comunicaciones Y Redes)",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Nb92QdX4uMmdkQsA7ROvsg%3D%3D",
+      "fechaPublicacion": "2026-10-17",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20623037",
+      "titulo": "El objeto del contrato sera la realizacion de las obras de adecuacion del solar anexo al edificio sede del Cuerpo General de laPolicia Canaria sito en la Calle Arrecife s/n, Las Torres, Las Palmas de Gran Canaria  para adaptacion de los usos que sedescriben en el proyecto instalacion de perreras, y para aparcamiento exterior.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=pkyh5VPGLq6ExvMJXBMHHQ%3D%3D",
+      "fechaPublicacion": "2026-10-17",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20705381",
       "titulo": "Servicios de consultoría estratégica y oficina técnica de Transformación Digital para la elaboración de un Plan Director Smart City y administración electrónica de Illescas, preparación, coordinación y seguimiento de las actuaciones del PAI.",
