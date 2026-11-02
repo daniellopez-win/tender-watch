@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-01T13:49:15",
-  "total": 20,
+  "actualizado": "2026-11-02T16:41:08",
+  "total": 22,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20823687",
+      "titulo": "Servicio De Soporte A Fuerzas Y Cuerpos De Seguridad Del Estado Para El Control De Pasaportes Previsto Por El Reglamento (Ue) 2017/2226.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=meBTlamitSd70UvEyYJSGw%3D%3D",
+      "fechaPublicacion": "2026-11-01",
+      "_kw": "ERP"
+    },
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19854608",
+      "titulo": "Servicio de Soporte para la resolución de incidencias de COSMO (ERP ODOO), los gestores de contenidos y aplicaciones web de gestión de la Agencia de Ciencia, Competitividad Empresarial e Innovación Asturiana.",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=%2FfRJH1fVYXTkY6rls5tG9A%3D%3D",
+      "fechaPublicacion": "2026-11-01",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20657333",
       "titulo": "Contratación del servicio de promoción y comercialización de productos de la marca Sabores Almería en local comercial, así como el servicio de gestión de la plataforma digital de ventas Marketplace",
