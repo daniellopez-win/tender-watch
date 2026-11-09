@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-08T13:53:21",
-  "total": 16,
+  "actualizado": "2026-11-09T16:54:15",
+  "total": 17,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20864016",
+      "titulo": "Implantación de un Sistema de Videovigilancia para Seguridad Ciudadana y apoyo a las Fuerzas y Cuerpos de Seguridad del Estado competentes en Municipios de la provincia de Ciudad Real",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=YP1D5oh6JVWGCFcHcNGIlQ%3D%3D",
+      "fechaPublicacion": "2026-11-08",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20743010",
       "titulo": "Suministro, transporte y descarga en puerta de dos (2) cámaras frigoríficas de congelación dobles (capacidad total para 4 cuerpos en régimen negativo) destinadas al depósito de cadáveres de la morgue del cementerio municipal del Ayuntamiento de Calvià.",
