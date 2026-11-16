@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-15T14:20:57",
-  "total": 33,
+  "actualizado": "2026-11-16T16:36:16",
+  "total": 34,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20914033",
+      "titulo": "Suministro De Suscripción Para La Renovación De Licencias Del Gestor Documental (Dms) De Muface. (26023) (Ministerio Para La Transformación Digital Y De La Función Pública-Mutualidad General De Funcionarias Y Funcionarios Civiles Del Estado, O.A (Muface))",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=5%2Fo3IbY%2BLPuHCIsjvJ3rhQ%3D%3D",
+      "fechaPublicacion": "2026-11-14",
+      "_kw": "transformación digital"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20905887",
       "titulo": "Contrato Mixto de Suministro e Instalación de la Museografía del Centro de Interpretación del Río Miño en Tui, en el marco del Proyecto 0249_VISIT_RIO_MINHO_PLUS_1_P («Consolidación de la marca Río Minho y creación de nuevos productos turísticos transfronterizos») de Cooperación Transfronteriza entre Galicia y el Norte de Portugal.",
