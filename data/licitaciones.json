@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-21T14:58:02",
-  "total": 31,
+  "actualizado": "2026-11-22T14:55:43",
+  "total": 32,
   "licitaciones": [
+    {
+      "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/19404154",
+      "titulo": "Servicio de Agencia de Viajes para el Cuerpo General de la Policía Canaria y Unidades administrativas de laDirección General de Seguridad,",
+      "organismo": "",
+      "importe": "",
+      "plazo": "",
+      "cpv": "",
+      "enlace": "https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Px85ITqqj7mHCIsjvJ3rhQ%3D%3D",
+      "fechaPublicacion": "2026-11-20",
+      "_kw": "ERP"
+    },
     {
       "id": "https://contrataciondelestado.es/sindicacion/licitacionesPerfilContratante/20906068",
       "titulo": "Servicio de interpretación simultánea presencial entre los seis idiomas oficiales de la Unión Africana para la reunión del Comité Técnico de la División de Comercio de Servicios del Secretariado del AfCFTA, que tendrá lugar en Harare, Zimbabue, del 16 al 23 de noviembre de 2026, en el marco del proyecto EU-TAF de apoyo al AfCFTA",
